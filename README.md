@@ -72,7 +72,8 @@ This tutorial outlines how to set up an Virtual Machine Network in Microsoft Azu
       </ul>
       <li>Go to the <b>Network</b> tab and notice the <b>Virtual Network</b> created by the Virtual Machine as it should've been made by the Resource Group. It will be made automatically by the Virtual Machine</li>
       <ul>
-        <li><img src="https://github.com/ColtonTrauCC/vm-network/assets/147654000/3d2688ab-110e-41cd-b60d-7c5772ccd480" height="80%" width="80%"></li>
+        <li><img src="https://github.com/RogericHarper44/azure-network-protocols/assets/168601987/cd5c59a6-636f-4cf8-989b-81cca967a29f"
+"></li>
       </ul>
       <li>Then head to the <b>Review + Create</b> and click on <b>Create</b> to deploy your Virtual Machine. Give it some time to fully deploy before moving on.</li>
     </ul>
