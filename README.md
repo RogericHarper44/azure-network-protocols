@@ -82,7 +82,8 @@ This tutorial outlines how to set up an Virtual Machine Network in Microsoft Azu
       <li>Same process as Virtual Machine 1 but we'll name the VM <b>VM-2</b> and set the Image to <i>Ubuntu Server 20.04 LTS x64 Gen2</i></li>
       <li>Ubuntu by default has their Administrator Account authentication as SSH public key, so we must set it as Password for logging in through Remote Desktop</li>
       <ul>
-        <li><img src="https://github.com/ColtonTrauCC/vm-network/assets/147654000/70b6006b-a0f2-4b59-9eff-cf73e7174c70" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+        <li><img src="https://github.com/RogericHarper44/azure-network-protocols/assets/168601987/c0a1d89b-be9a-4b49-8bd1-dc8966bdcfd6"
+/></li>
       </ul>
     </ul>
   </ul>
