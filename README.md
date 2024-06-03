@@ -53,8 +53,8 @@ This tutorial outlines how to set up an Virtual Machine Network in Microsoft Azu
       <ul>
        <li>Through <b>Azure Services</b>, go to <b>Resource groups</b> to create a Resource Group and name your Resource Group <b>RG-VM</b>. Take note of the <b>Region</b> of your Resouce Group as it'll come in play when setting up our VMs. Once done, then click on <b>Review + Create</b></li>
         <ul>
-          <li><img src="https://github.com/ColtonTrauCC/vm-network/assets/147654000/89c6d771-64e6-495f-959c-640e482cc8a2" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
-        </ul>
+<li><img src="https://github.com/RogericHarper44/azure-network-protocols/assets/168601987/2121e7fd-16a4-41ab-8162-80719e69bce9"
+           </ul>
       </ul>
     <li><b>Virtual Machine 1 using Windows 10</b></li>
     <ul>
