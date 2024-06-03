@@ -97,7 +97,8 @@ This tutorial outlines how to set up an Virtual Machine Network in Microsoft Azu
   <ul>
    <li>Through <b>Azure Services</b>, go to <b>Virtual Machines</b> and select VM-1 we've created and click on <b>Connect</b> to connect to the VM, from this page you can obtain the <b>Public IP Address</b> which we will use to connect to it via Remote Desktop Connection</li>
     <ul>
-      <li><img src="https://github.com/ColtonTrauCC/vm-network/assets/147654000/f38f8254-73c7-42a4-8b31-2bd3d328cff1" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/RogericHarper44/azure-network-protocols/assets/168601987/48c01aa9-4306-459d-9a50-b748a9acbdee"
+/></li>
     </ul>
     <li>Copy the address and paste it into Remote Desktop Connection and click on <b>Connect</b> and log in using the username and password you set up for VM-1 (a pop up may show up for verification, just click on "Yes" if it does)</li>
     <ul>
