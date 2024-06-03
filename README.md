@@ -62,7 +62,8 @@ This tutorial outlines how to set up an Virtual Machine Network in Microsoft Azu
       <li>Set the <b>Image</b> (our Operating System) to <i>Windows 10 Pro, Version 22H2, x64 Gen2</i></li>
       <li>The <b>Size</b> selected dicates the general processing power and RAM of our VM, for this tutorial we'll set it to <i>Standard_E2s_V3</i> which provides 2 virtual CPUs and 16 GBs of RAM</li>
       <ul>
-        <li><img src="https://github.com/ColtonTrauCC/vm-network/assets/147654000/be86a82d-db6c-4d45-9961-9acc61c2aadb" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+        <li><img src="https://github.com/RogericHarper44/azure-network-protocols/assets/168601987/af445b4c-9c85-42a7-8e09-d471aaab8695"
+></li>
       </ul>
       <li>Set the username and password of your VM for logging in and make sure to check the box for licensing agreement</li>
       <ul>
