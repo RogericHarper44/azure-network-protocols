@@ -137,7 +137,8 @@ This tutorial outlines how to set up an Virtual Machine Network in Microsoft Azu
     </ul>
     <li>Back to your physical desktop, head to your Microsoft Azure Account obtain the <b>Private IP Address</b> of VM-2 and copy it</li>
     <ul>
-    <li><img src="https://github.com/ColtonTrauCC/vm-network/assets/147654000/14f48437-5d89-417a-b4b5-218fd845fa54" height="50%" width="50%" alt="Disk Sanitization Steps"/></li>
+    <li><img src="https://github.com/RogericHarper44/azure-network-protocols/assets/168601987/f627b861-d22d-4ae1-be0c-c057841f6c2f"
+/></li>
     </ul>
     <li>Open up <b>Windows Powershell</b> in VM-1 and in the command line enter <b>ping</b> and the private IP of VM-2. Once done, ICMP packets should now display in Wireshark</li>
     <ul>
