@@ -107,7 +107,8 @@ This tutorial outlines how to set up an Virtual Machine Network in Microsoft Azu
     <li><img src="https://github.com/RogericHarper44/azure-network-protocols/assets/168601987/8cae12fd-e0cd-4108-ac38-699c83203ee3"/></li>    </ul>
     <li>You are now successfully logged into your VM!</li>
     <ul>
-      <li><img src="https://github.com/ColtonTrauCC/vm-network/assets/147654000/a42e65d9-f9e3-4059-a04e-de51bb335d85" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/RogericHarper44/azure-network-protocols/assets/168601987/4c3a14fc-37e5-42b0-a7c3-9226da158276"
+/></li>
     </ul>
   </ul>
 </p>
