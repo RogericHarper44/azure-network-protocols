@@ -3,8 +3,7 @@
 </p>
 
 <h1 align = "center">Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-This project outlines how to set up an Virtual Machine Network in Microsoft Azure and doing some exercises observing traffic.
-
+This project outlines how to set up a Virtual Machine Network in Microsoft Azure and performe exercises that helps you observe traffic.
 <br />
 
 <h2>Environments and Technologies Used</h2>
